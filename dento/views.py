@@ -17,10 +17,10 @@ def contact(request):
 		# send email
 		send_mail(
 			message_name, # subject
-			message, # message
+			message, # message body
 			message_email, # from email
-			['tsen2509@gmail.com'] , # to email
-			fail_silently=False,
+			[        ], # to email
+			fail_silently=False,			
 			)
 
 
