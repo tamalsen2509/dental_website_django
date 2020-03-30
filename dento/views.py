@@ -19,9 +19,9 @@ def contact(request):
 		subject='Email confirmation'
 		message_body='Hello we have received your email. Its a system generated email, please do not reply'
 		from_user=settings.EMAIL_HOST_USER
-		to_user=message_email
-		
-		send_mail(subject,message_body,from_user,to_user,fail_silently=True)
+		to_user=['message_email']
+
+		send_mail(subject, message_body, from_user,to_user ,fail_silently=True)
 		
 
 		return render(request,'contact.html',{'message_name':message_name})
