@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"sto",
+				"stock_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ap",
+				"api"
+			],
+			[
+				"t",
+				"ticker"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"api",
+				"api_request"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"A",
+				"Author"
+			],
+			[
+				"pro",
+				"product_create"
+			],
+			[
+				"product",
+				"product_create"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"Pro",
+				"product"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"ho",
+				"home_view"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"dja",
+				"django_heroku"
+			],
+			[
+				"sen",
+				"send_mail"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"den",
+				"dento_web"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"my",
+				"my_title"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"Template",
+				"template"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"products",
+				"products"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"Pr",
+				"ProductAdmin"
+			],
+			[
+				"Http",
+				"httpResponse"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"I",
+				"italic\tfont-style"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"ema",
+				"E-mail"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"c",
+				"css"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/bio/src/mybio/mybio/urls.py",
+		"/C/bio/src/mybio/template/home.html",
+		"/C/bio/src/mybio/personal/views.py",
+		"/C/bio/src/mybio/mybio/settings.py",
+		"/C/bio/src/mybio/template/base.html",
+		"/C/bio/src/mybio/template/about.html",
+		"/C/bio/src/mybio/personal/urls.py",
+		"/C/bio/src/mybio/personal/template/home.html",
+		"/C/bio/src/mybio/personal/template/pages/home.html",
+		"/C/djangostock/stock/quotes/views.py",
+		"/C/djangostock/stock/quotes/templates/add_stock.html",
+		"/C/djangostock/stock/quotes/urls.py",
+		"/C/djangostock/stock/quotes/forms.py",
+		"/C/djangostock/stock/quotes/models.py",
+		"/C/djangostock/stock/quotes/templates/base.html",
+		"/C/djangostock/stock/quotes/admin.py",
+		"/C/djangostock/stock/stock/urls.py",
+		"/C/djangostock/stock/quotes/templates/home.html",
+		"/C/djangostock/stock/quotes/templates/about.html",
+		"/C/djangostock/stock/stock/settings.py",
+		"/C/blogproject/myblog/blogdemo/blog/views.py",
+		"/C/blogproject/myblog/blogdemo/blog/models.py",
+		"/C/blogproject/myblog/blogdemo/blogdemo/settings.py",
+		"/C/dev/trydjango/src/products/views.py",
+		"/C/dev/trydjango/src/trydjango/urls.py",
+		"/C/dev/trydjango/src/products/templates/products/product_create.html",
+		"/C/dev/trydjango/src/templates/product/detail.html",
+		"/C/dev/trydjango/src/products/templates/products/product_detail.html",
+		"/C/dev/trydjango/src/products/templates/product/product.detail.html",
+		"/C/dev/trydjango/src/templates/base.html",
+		"/C/dev/trydjango/src/templates/navbar.html",
+		"/C/dev/trydjango/src/pages/views.py",
+		"/C/dev/trydjango/src/templates/contact.html",
+		"/C/dev/trydjango/src/templates/social.html",
+		"/C/dev/trydjango/src/templates/home.html",
+		"/C/dev/trydjango/src/templates/about.html",
+		"/C/dev/trydjango/src/trydjango/settings.py",
+		"/C/dev/trydjango/src/products/models.py",
+		"/C/dev/trydjango/src/products/admin.py",
+		"/C/Mezzanin_blog/myblog/myblog/settings.py",
+		"/C/website/dental/dental/settings.py",
+		"/C/website/dental/dento/templates/home.html",
+		"/C/website/dental/Procfile",
+		"/C/website/dental/dento/views.py",
+		"/C/website/dental/dento/urls.py",
+		"/C/website/dental/dento/templates/contact.html",
+		"/F/website template/dento/dento/index.html",
+		"/C/website/dental/static/dento_web/css/style.css",
+		"/C/website/dental/static/dento_web/css/style2.css",
+		"/C/website/dental/dento/template/home.html",
+		"/C/website/dental/dental/urls.py",
+		"/C/website/dental/dental/template/home.html",
+		"/C/try_django/try_django/try_django/views.py",
+		"/C/try_django/try_django/templates/hello_world.html",
+		"/C/try_django/try_django/try_django/settings.py",
+		"/C/try_django/try_django/try_django/urls.py",
+		"/C/PythonApi/djangoapi/courses/models.py",
+		"/C/PythonApi/djangoapi/courses/urls.py",
+		"/C/PythonApi/djangoapi/djangoapi/urls.py",
+		"/C/PythonApi/djangoapi/djangoapi/settings.py",
+		"/C/Pyshop/pyshop/urls.py",
+		"/C/Pyshop/pyshop/settings.py",
+		"/C/Pyshop/procfile",
+		"/C/Pyshop/Template/base.html",
+		"/C/Pyshop/products/templates/index.html",
+		"/C/Pyshop/products/templates/base.html",
+		"/C/Pyshop/products/views.py",
+		"/C/Pyshop/products/models.py",
+		"/C/Pyshop/products/admin.py",
+		"/C/Pyshop/products/urls.py",
+		"/C/website/pyshop/products/views.py",
+		"/C/website/pyshop/products/urls.py",
+		"/C/website/pyshop/pyshop/urls.py",
+		"/C/Users/Tamal/Desktop/test.py",
+		"/C/Users/Tamal/Desktop/projects/My college/index.html",
+		"/C/Users/Tamal/Desktop/projects/My college/css/style.css",
+		"/C/Users/Tamal/Desktop/projects/My college/js/picturefil.min.js",
+		"/C/Users/Tamal/Desktop/projects/My college/style.css",
+		"/C/Users/Tamal/Desktop/projects/My college/normalize.css",
+		"/C/Users/Tamal/Desktop/projects/Myreceipe/index.html",
+		"/C/Users/Tamal/Desktop/projects/Myreceipe/style.css",
+		"/C/dental/dental/website/templates/home.html",
+		"/C/dental/dental/dental/settings.py",
+		"/C/dental/dental/website/templates/index.html",
+		"/C/dental/dental/Static/Website/css/style.css",
+		"/C/dental/dental/website/urls.py",
+		"/C/dental/dental/static/Website/scss/style.scss",
+		"/C/dental/dental/static/Website/css/style.css",
+		"/C/dental/dental/static/Website/css/style2.css",
+		"/C/Dental/dental/website/urls.py",
+		"/C/dental/dental/website/views.py",
+		"/C/dental/dental/dental/urls.py",
+		"/C/dental/dental/manage.py",
+		"/C/dental/dental/website/templates/homepage.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css",
+			".js",
+			".png",
+			".jpg",
+			"background.jpg",
+			".jpg",
+			"header",
+			"header-background",
+			"header-background.jpg",
+			".jpg",
+			".png",
+			".jpg",
+			".css",
+			".js",
+			".jpg",
+			".js",
+			"index.html",
+			"about us",
+			"our Dentist",
+			"pricing",
+			".png",
+			".jpg",
+			"post",
+			".jpg",
+			".png",
+			".jpg",
+			".png",
+			".jpg",
+			".png",
+			".css",
+			".jpg",
+			".png",
+			".jpg",
+			".img",
+			".jpg",
+			".png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
