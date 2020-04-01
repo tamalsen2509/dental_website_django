@@ -9,3 +9,5 @@ refrenece link- https://tamaldentalwebapp.herokuapp.com/
 
 command terminal used= "git-bash-terminal"
 text editor user="sublime-text editor "
+
+![screenshot](static/dento_web/img/website_home_view.png)
