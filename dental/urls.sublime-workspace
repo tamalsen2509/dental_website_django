@@ -4,8 +4,72 @@
 		"selected_items":
 		[
 			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"dro",
+				"dropdown"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"ta",
+				"tamalsen"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"navbra",
+				"navbar"
+			],
+			[
 				"re",
 				"request"
+			],
+			[
+				"bas",
+				"BASE_DIR"
+			],
+			[
+				"ba",
+				"BASE_DIR"
+			],
+			[
+				"fr",
+				"from_user"
+			],
+			[
+				"mes",
+				"message_body"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"me",
+				"message_email"
+			],
+			[
+				"em",
+				"EMAIL_USE_TLS"
 			],
 			[
 				"sto",
@@ -32,10 +96,6 @@
 				"api_request"
 			],
 			[
-				"h",
-				"h2\tTag"
-			],
-			[
 				"r",
 				"render"
 			],
@@ -54,10 +114,6 @@
 			[
 				"in",
 				"input\tTag"
-			],
-			[
-				"fo",
-				"form\tTag"
 			],
 			[
 				"ob",
@@ -232,10 +288,6 @@
 				"background-color\tproperty"
 			],
 			[
-				"ba",
-				"background-position\tproperty"
-			],
-			[
 				"ima",
 				"images"
 			],
@@ -246,14 +298,6 @@
 			[
 				"im",
 				"img\tTag"
-			],
-			[
-				"i",
-				"img\tTag"
-			],
-			[
-				"col",
-				"color\tproperty"
 			],
 			[
 				"ma",
@@ -332,9 +376,20 @@
 	},
 	"file_history":
 	[
-		"/C/bio/src/mybio/mybio/urls.py",
+		"/C/Users/Tamal/Desktop/index.html",
+		"/C/jishin_client/src/bio/template/home.html",
+		"/C/jishin_client/src/bio/bio/urls.py",
+		"/C/jishin_client/src/bio/personal/views.py",
+		"/C/jishin_client/src/bio/template/base.html",
+		"/C/jishin_client/src/bio/bio/settings.py",
+		"/C/jishin_client/src/bio/static/personal/css/style.css",
 		"/C/bio/src/mybio/template/home.html",
 		"/C/bio/src/mybio/personal/views.py",
+		"/C/website/dental/dento/templates/contact.html",
+		"/C/website/dental/dento/views.py",
+		"/C/website/dental/dento/urls.py",
+		"/C/website/dental/dental/settings.py",
+		"/C/bio/src/mybio/mybio/urls.py",
 		"/C/bio/src/mybio/mybio/settings.py",
 		"/C/bio/src/mybio/template/base.html",
 		"/C/bio/src/mybio/template/about.html",
@@ -372,12 +427,8 @@
 		"/C/dev/trydjango/src/products/models.py",
 		"/C/dev/trydjango/src/products/admin.py",
 		"/C/Mezzanin_blog/myblog/myblog/settings.py",
-		"/C/website/dental/dental/settings.py",
 		"/C/website/dental/dento/templates/home.html",
 		"/C/website/dental/Procfile",
-		"/C/website/dental/dento/views.py",
-		"/C/website/dental/dento/urls.py",
-		"/C/website/dental/dento/templates/contact.html",
 		"/F/website template/dento/dento/index.html",
 		"/C/website/dental/static/dento_web/css/style.css",
 		"/C/website/dental/static/dento_web/css/style2.css",
@@ -429,7 +480,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -443,6 +494,33 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"our news",
+			"lf",
+			"crlf",
+			"bootstrap",
+			".css",
+			".js",
+			"owl",
+			"assets",
+			"owl carousel",
+			".ttf",
+			".otf",
+			".css",
+			".png",
+			".jpg",
+			".img",
+			".css",
+			".js",
+			".css",
+			".js",
+			".css",
+			".js",
+			".css",
+			".map",
+			".js",
+			".css",
+			".js",
+			".css",
 			"css",
 			".js",
 			".png",
@@ -503,11 +581,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 41.0
 	},
 	"layout":
 	{
@@ -540,7 +618,7 @@
 	"project": "urls.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -578,7 +656,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 228.0,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
