@@ -6,3 +6,6 @@ I am using heroku app for hosting the website. Reference link has updated below.
 Please add your suugestion or improvement if needed.
 
 refrenece link- https://tamaldentalwebapp.herokuapp.com/
+
+command terminal used= "git-bash-terminal"
+text editor user="sublime-text editor "
